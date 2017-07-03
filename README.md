@@ -19,9 +19,9 @@ Not surprisingly, the model performed very poorly in the beginning since I start
 ![AD4](/images/AD_4.png)  
 
 To put this technology to use I created an iOS 11 app with Swift and Apple’s new machine learning library, CoreML (released at the beginning of June), which makes it easy to convert Keras models and use them in the iOS environment.
-Here’s a little demo of the app:  
+Here’s a little demo of the app on youtube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_CNRriH_qtA" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/_CNRriH_qtA"><img src="app.png" alt="alt text" width="250px" height="450px"/></a>
 
 Next Steps:  
 I am able to release this app in the next release iOS 11 this fall. Until then, I want to include price averages, show location-based offers of used cars and improve the interface of the app. If you want to look at my code and get more information, visit my <a href="http://www.github.com/Flowinger/AutoDetect">GitHub repo</a>.  
