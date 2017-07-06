@@ -70,7 +70,7 @@ all_classes = get_all_classes('/Users/flowinger/AD/AutoDetect/*')
 
 #print(all_classes)
 
-print('Filepath image:')
+print('Filepath model:')
 model_input = input('>')
 print('Loading model...')
 model = load_model(model_input)
