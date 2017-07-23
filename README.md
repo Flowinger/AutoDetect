@@ -1,10 +1,10 @@
 # AutoDetect  
-As many Germans, I have always been really into cars and Formula1. I always wanted to be able to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
+My goal for this three week project was to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
 
 ![AD1](/images/AD_1.png)
 
-So for my final project, I wanted to combine my little experience in iOS development with my knowledge I acquired over the last 12 weeks. My goal for this project was to create an real world application that makes it easy to find out the make, model and average price of a used car.  
-For building the underlying technology, I used a method within the Deep Learning space called transfer learning. A common task is to first train an image classification model with the ImageNet Challenge data set, and then transfer this model’s knowledge to a distinct task.  
+So, I wanted to combine my little experience in iOS development with my knowledge I acquired over the last 12 weeks. My goal for this project was to create a real world application that makes it easy to find out the make, model and average price of a used car.  
+For building the underlying technology, I used a method within the Deep Learning space called transfer learning. A common task is to first train an image classification model with the ImageNet Challenge data set, and then transfer this model’s knowledge to a distinct task - detecting cars.  
 
 ![AD2](/images/AD_2.png) 
 
