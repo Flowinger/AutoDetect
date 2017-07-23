@@ -1,5 +1,5 @@
 # AutoDetect  
-My goal for this three week project was to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
+My goal for this three weeks project was to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
 
 ![AD1](/images/AD_1.png)
 
