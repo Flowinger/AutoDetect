@@ -21,7 +21,7 @@ Not surprisingly, the model performed very poorly in the beginning since I start
 To put this technology to use I created an iOS 11 app with Swift and Apple’s new machine learning library, CoreML (released at the beginning of June), which makes it easy to convert Keras models and use them in the iOS environment.
 Here’s a little demo of the app on youtube:
 
-<a href="ttps://www.youtube.com/embed/Io-bdU9OIVQ"><img src="app.png" alt="alt text" width="250px" height="450px"/></a>  
+<a href="https://www.youtube.com/embed/Io-bdU9OIVQ"><img src="app.png" alt="alt text" width="250px" height="450px"/></a>  
 
 
 Next Steps:  
